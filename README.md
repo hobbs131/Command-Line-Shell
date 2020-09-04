@@ -15,7 +15,7 @@
   - command arg1...: non-built-in is run as job
  
 # Usage
-  - Download source code and compile using the command 'make'
+  - Download source code, switch to directory containing source code, and compile using the command 'make'
   - Run using command: ./commando
   - Features are listed above
 
